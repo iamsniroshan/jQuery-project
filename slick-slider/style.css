@@ -7,14 +7,17 @@ body {
 * {
   box-sizing: border-box;
 }
-
+.space-bar {
+  margin-top: 100px;
+}
 .slider {
-  width: 50%;
-  margin: 100px auto;
+  width: 80%;
+  max-width: 800px;
+  margin: 0px auto;
 }
 
 .slick-slide {
-  margin: 0px 20px;
+  margin: 0px 10px;
 }
 
 .slick-slide img {
